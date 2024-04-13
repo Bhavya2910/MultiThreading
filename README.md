@@ -27,7 +27,9 @@ The script generates the following outputs:
 - **CPU Usage:** Percentage of CPU utilization during the benchmarking process.
 
 ## Resulting DataFrame
-![image](https://github.com/Bhavya2910/MultiThreadingAssignment/assets/99804770/c18506ff-4a61-44a8-8b38-72b269f2c317)
-![image](https://github.com/Bhavya2910/MultiThreadingAssignment/assets/99804770/fa2d50b0-1cc2-4dcd-b7b6-7c93c99502ab)
+![image](https://github.com/Bhavya2910/MultiThreadingAssignment/assets/99804770/e48c3eb2-62c6-433d-b5b5-83daa215d057)
+
+![image](https://github.com/Bhavya2910/MultiThreadingAssignment/assets/99804770/4a925100-1aaa-434c-a35d-93b8e84573f1)
+
 
 
